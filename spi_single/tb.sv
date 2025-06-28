@@ -1,7 +1,7 @@
 `timescale 1ns / 1ns 
 
 module tb;
-
+ 
 // Clock & Reset
 logic sys_clk = 0;
 logic sys_rst_n = 0;
